@@ -1,1 +1,3 @@
-# rsschool-2019Q1-codeacademy
+Tarasava Sofiya (krismoon4ik)
+HTML & CSS Basics
+https://www.codecademy.com/users/_krismoon/achievements
